@@ -3,10 +3,10 @@ Title: "Modelinglong QT syndrome type 2 on-a-chipvia in-depth assessment of isog
 collection: publications
 Date: 2022-12-16
 venue: 'Science Advances'
-paperurl: [Link](https://www.science.org/doi/10.1126/sciadv.abq6720)
+paperurl: '[Link](https://www.science.org/doi/10.1126/sciadv.abq6720)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](https://www.science.org/doi/epdf/10.1126/sciadv.abq6720)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Veldhuizen J, Mann HF, Karamanova N, Van Horn WD, Migrino RQ, Brafman D, Nikkhah M. Modeling long QT syndrome type 2 on-a-chip via in-depth assessment of isogenic gene-edited 3D cardiac tissues. Sci Adv. 2022 Dec 16;8(50):eabq6720. doi: 10.1126/sciadv.abq6720. Epub 2022 Dec 16. PMID: 36525500; PMCID: PMC9757749.
