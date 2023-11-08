@@ -1,7 +1,7 @@
 ---
 title: "Modelinglong QT syndrome type 2 on-a-chipvia in-depth assessment of isogenic gene-edited 3D cardiac tissues"
 collection: publications
-permalink: [Link to Publication 1](https://www.science.org/doi/10.1126/sciadv.abq6720)
+permalink: '[Link to Publication 1](https://www.science.org/doi/10.1126/sciadv.abq6720)'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-12-16
 venue: 'Science Advances'
