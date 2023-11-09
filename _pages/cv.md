@@ -16,15 +16,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2020 - Present: Research Assistant 
+  * VAN HORN LAB, ARIZONA STATE UNIVERSITY, TEMPE, AZ
+  * Current projects include: DNA cloning, manual/automatic patch-clamp electrophysiology.
+  * PI/Advisor: Dr. Wade Van Horn
 
-* Fall 2015: Research Assistant
+* May 2020 - July 2020: RESEARCH THECHNITION
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Planned and organized summer outreach KEYS program, lead one hour Zoom meetings three times a week for two high school interns.
+  * Created laboratory work schedule for the summer of 2020.
+  * Trained four new lab members on proper laboratory procedures including data collection and analysis.
+  * PI/Advisor: Dr. Michael Brown
+    
+* May 2019 - May 2020: Undergraduate Researcher
+  * VAN HORN LAB, ARIZONA STATE UNIVERSITY, TEMPE, AZ
+  * Measured binding curves using UV-Visible Spectrophotometer.
+  * Analyze data and create figures.
+  * Created and presented research poster at the 64th Annual Biophysical Society meeting in San Diego.
+  * PI/Advisor: Dr. Michael Brown
   
 Skills
 ======
