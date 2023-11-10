@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biochemistry, University of Arizona, 2020
 * Ph.D in Biochemistry, Arizona State University, 2025 (expected)
+* B.S. in Biochemistry, University of Arizona, 2020
 
 Work experience
 ======
