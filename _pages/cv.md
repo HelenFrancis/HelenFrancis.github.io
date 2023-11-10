@@ -44,3 +44,7 @@ Skills
 * Electrophiology
   * Manual Whole-cell Patch-clamp
   * Automated Patch-clamp
+* DNA Cloning
+  * Adding point mutations to DNA plasmids
+  * Ligating genes into vector plasmids
+  * Concatenating genes
