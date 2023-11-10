@@ -17,19 +17,19 @@ Education
 Work experience
 ======
 * October 2020 - Present: Research Assistant 
-  * VAN HORN LAB, ARIZONA STATE UNIVERSITY, TEMPE, AZ
+  * Van Horn Lab, Arizona State University, Tempe, AZ
   * Current projects include: DNA cloning, manual/automatic patch-clamp electrophysiology.
   * PI/Advisor: Dr. Wade Van Horn
 
-* May 2020 - July 2020: RESEARCH THECHNITION
-  * Github University
+* May 2020 - July 2020: Research Technition
+  * Brown Lab, Univeristy of Arizona, Tucson, AZ
   * Planned and organized summer outreach KEYS program, lead one hour Zoom meetings three times a week for two high school interns.
   * Created laboratory work schedule for the summer of 2020.
   * Trained four new lab members on proper laboratory procedures including data collection and analysis.
   * PI/Advisor: Dr. Michael Brown
     
 * May 2019 - May 2020: Undergraduate Researcher
-  * VAN HORN LAB, ARIZONA STATE UNIVERSITY, TEMPE, AZ
+  * Brown Lab, Univeristy of Arizona, Tucson, AZ
   * Measured binding curves using UV-Visible Spectrophotometer.
   * Analyze data and create figures.
   * Created and presented research poster at the 64th Annual Biophysical Society meeting in San Diego.
@@ -37,31 +37,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Cell Cuture
+  * HEK293 adherent cells
+  * CHO-K1 adherent cells
+  * SF9 suspention cells
+* Electrophiology
+  * Manual Whole-cell Patch-clamp
+  * Automated Patch-clamp
