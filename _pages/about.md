@@ -14,4 +14,4 @@ TRPV1 Structure
 ------
 
 PDB: 3J5Q
-![TRPV1](/0000_gray_Pymol_croped.png)
+![TRPV1](0000_gray_Pymol_croped.png)
