@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "Biochemistry PhD Candidate, Arizona State University / Research Interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
