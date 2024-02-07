@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Helen Francis Mann's Homepage / Biochemistry PhD Candidate, Arizona State University"
+title                    : "Helen Francis Mann's Homepage"
 title_separator          : "-"
 name                     : &name "Helen Francis Mann"
 description              : &description "Helen Francis Mann ASU research"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Helen Francis Mann"
   avatar           : "BEST_PIC.JPG"
-  bio              : "Graduate Biochemistry Research Assistant at Arizona State University, Virginia G. Piper Center for Personalized Diagnostics"
+  bio              : "Graduate Biochemistry Research Assistant at Arizona State University, The Biodesign Institute Virginia G. Piper Center for Personalized Diagnostics"
   location         : "550 E Orange St., Tempe, AZ 85281"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/36525500/"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/helen-mann-051588136/"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0002-0839-4038"
   pinterest        :
   soundcloud       :
